@@ -8,7 +8,7 @@
 <a href="mailto:ardhendusekharsahoo31@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://ardhendu-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
