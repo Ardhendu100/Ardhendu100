@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c896&height=220&section=header&text=Hi,%20I'm%20Ardhendu%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20RAG%20Systems%20%E2%80%A2%20Building%20things%20that%20think&descAlignY=58&descSize=17" />
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+%40+Auroinfo;Building+AwareNow+%26+Atompass;Python+%2B+FastAPI+%2B+React+%2B+LangGraph;Turning+ideas+into+production+systems&font=Fira+Code&center=true&width=600&height=50&color=00C896&vCenter=true&size=22&pause=1500" />
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ardhendu%20Sekhar%20Sahoo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20AI-Driven%20Applications&descAlignY=58&descSize=18" />
 
 <a href="https://www.linkedin.com/in/ardhendu-sekhar-sahoo">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,69 +8,80 @@
 <a href="mailto:ardhendusekharsahoo31@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Ardhendu100&style=for-the-badge&color=00c896&label=PROFILE+VIEWS" />
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
 <br>
 
-```js
-const ardhendu = {
-  role: "Full-Stack Developer | AI-Driven Applications",
-  location: "Odisha, India 🇮🇳",
-  experience: "4+ years",
-  currentlyBuilding: ["AwareNow 🏛️", "Atompass 🔐"],
-  funFact: "I make government transcripts and password vaults talk to LLMs"
-};
+```python
+class SoftwareDeveloper:
+    def __init__(self):
+        self.name = "Ardhendu Sekhar Sahoo"
+        self.role = "Full-Stack Developer | AI-Driven Applications"
+        self.location = "Odisha, India"
+        self.experience = "4+ years"
+        self.stack = ["Python", "FastAPI", "Django", "React.js", "LangGraph", "RAG"]
+
+    def current_focus(self):
+        return "Building AI-powered platforms — civic intelligence, secure auth, hiring tools"
 ```
 
 <br>
 
-## ⚡ About Me
+## 🚀 About Me
 
-- 🔭 Software Developer @ **Auroinfo Private Limited** — building **AwareNow** (AI civic intelligence platform) & **Atompass** (security-first password manager)
-- 🧠 Deep experience with **LLM integration, RAG pipelines & LangGraph agentic workflows**
-- 🏗️ Architect of scalable **microservices, RESTful APIs & secure auth systems**
-- 🎯 Personal project: **RoleMatch** — semantic search + LLM-powered job matching engine
-- 🌱 Currently leveling up: agentic orchestration & vector search at scale
-- ⚡ Fun fact: My code reviews come with more questions than the interview did
+- 🔭 Software Developer at **Auroinfo Private Limited**, building **AwareNow** (AI-powered civic intelligence platform) and **Atompass** (security-first password manager)
+- 💡 Experienced in **LLM integrations, RAG pipelines, and agentic workflows** using LangGraph
+- 🏗️ Strong background in **scalable microservices, RESTful APIs, and secure authentication architectures**
+- 🌱 Currently exploring deeper agentic AI orchestration and vector search systems
+- 🎯 Personal project: **RoleMatch** — AI job recommendation engine using semantic vector search + LLM scoring
+- 📍 Based in Odisha, India
 
 <br>
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
 <br>
 
-## 💼 Featured Builds
+## 💼 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 RoleMatch
-AI job recommendation engine — semantic vector search + LLM contextual scoring matching candidates to roles. FastAPI + LangGraph orchestration, Supabase storage, real-time Streamlit dashboard.
+AI-powered job recommendation engine using semantic vector search and LLM-based contextual scoring to match candidates with relevant roles.
 
 `FastAPI` `LangGraph` `Supabase` `Streamlit`
 
@@ -82,7 +89,7 @@ AI job recommendation engine — semantic vector search + LLM contextual scoring
 <td width="50%" valign="top">
 
 ### 🏛️ AwareNow
-AI civic intelligence platform turning long-form government transcripts into structured, searchable summaries via OpenAI APIs, backed by Django + PostgreSQL + Celery pipelines.
+AI-powered civic intelligence platform transforming long-form government transcripts into structured, searchable summaries via OpenAI APIs.
 
 `Django` `PostgreSQL` `Celery` `OpenAI`
 
@@ -92,7 +99,7 @@ AI civic intelligence platform turning long-form government transcripts into str
 <td width="50%" valign="top">
 
 ### 🔐 Atompass
-Security-first password manager — encrypted credential storage, RBAC, hardened auth, and a clean V1→V2 migration with zero data loss.
+Security-first password management platform with encrypted credential storage, RBAC, and hardened authentication architecture.
 
 `Django` `Encryption` `RBAC` `Auth`
 
@@ -100,7 +107,7 @@ Security-first password manager — encrypted credential storage, RBAC, hardened
 <td width="50%" valign="top">
 
 ### 🤝 Proxtal
-AI-powered hiring & collaboration platform for infrastructure — real-time messaging, event-driven notifications, intelligent content generation.
+AI-powered hiring and collaboration platform for the infrastructure sector with real-time messaging and intelligent content generation.
 
 `React` `Microservices` `RBAC` `Realtime`
 
@@ -110,34 +117,18 @@ AI-powered hiring & collaboration platform for infrastructure — real-time mess
 
 <br>
 
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ardhendu100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhendu100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c896" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ardhendu100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhendu100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ardhendu100&theme=tokyonight&hide_border=true&background=0d1117&ring=00c896&fire=00c896&currStreakLabel=00c896" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ardhendu100&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c896&line=00c896&point=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ardhendu100&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ardhendu100/Ardhendu100/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> ⚙️ **Setup needed** — see instructions below to activate the snake animation
 
 <br>
 
@@ -150,7 +141,7 @@ AI-powered hiring & collaboration platform for infrastructure — real-time mess
 
 <div align="center">
 
-### 📫 Let's Build Something
+### 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/ardhendu-sekhar-sahoo">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -161,6 +152,6 @@ AI-powered hiring & collaboration platform for infrastructure — real-time mess
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,100:0f2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
 
 </div>
